@@ -1,0 +1,7 @@
+numpy
+pillow
+pillow-heif
+opencv-python
+ultralytics
+sentence-transformers
+streamlit
