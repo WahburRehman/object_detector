@@ -6,7 +6,7 @@ Type a natural prompt (e.g., **“Find all cars”**, **“highlight cats”**, 
 
 ---
 
-## ✨ Features
+## Features
 - **Prompt-based filtering** — works with **natural language** or **class names**:
   - “Find all cars and people”, “highlight cats”, or `person, car, laptop`
 - **Fast UI** — Streamlit app with sample images (compressed for speed)
@@ -15,7 +15,7 @@ Type a natural prompt (e.g., **“Find all cars”**, **“highlight cats”**, 
 
 ---
 
-## 🧠 Tech 
+## Tech 
 - **Ultralytics YOLOv8** (`yolov8m.pt`)
 - **NLP**: Cosine similarity and Semantic Matching
 - **Streamlit** (frontend)  
@@ -23,7 +23,7 @@ Type a natural prompt (e.g., **“Find all cars”**, **“highlight cats”**, 
 
 ---
 
-## 🚀 Quickstart (Local)
+## Quickstart (Local)
 # 1) Install dependencies
 pip install -r requirements.txt
 
