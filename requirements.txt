@@ -1,7 +1,7 @@
-numpy
-pillow
-pillow-heif
-opencv-python
-ultralytics
-sentence-transformers
-streamlit
+numpy>=2.1
+pillow>=11.0
+pillow-heif>=0.17
+opencv-python-headless>=4.10
+ultralytics>=8.3
+sentence-transformers>=3.0
+streamlit>=1.35
