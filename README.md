@@ -2,7 +2,7 @@
 
 Type a natural prompt (e.g., **“Find all cars”**, **“highlight cats”**, **“person, bicycle”**) → upload or pick a sample image → get clean detections.  
 
-> **Live demo:** _add Streamlit link after deploy_  
+> **Live demo:** https://objectdetector-r3gyngq5mrcmyylhabx2ky.streamlit.app
 
 ---
 
